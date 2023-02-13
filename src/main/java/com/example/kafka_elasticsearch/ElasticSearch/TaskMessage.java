@@ -1,4 +1,4 @@
-package com.example.kafka_elasticsearch;
+package com.example.kafka_elasticsearch.ElasticSearch;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Getter;

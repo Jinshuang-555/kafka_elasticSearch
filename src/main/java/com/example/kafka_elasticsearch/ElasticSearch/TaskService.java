@@ -1,4 +1,4 @@
-package com.example.kafka_elasticsearch;
+package com.example.kafka_elasticsearch.ElasticSearch;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
