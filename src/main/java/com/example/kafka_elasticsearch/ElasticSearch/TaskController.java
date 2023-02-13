@@ -1,14 +1,12 @@
-package com.example.kafka_elasticsearch;
+package com.example.kafka_elasticsearch.ElasticSearch;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.elasticsearch.repository.ElasticsearchRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.scheduling.config.Task;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.Iterator;
-import java.util.List;
 
 @RestController
 @RequestMapping("/api/v1/search")

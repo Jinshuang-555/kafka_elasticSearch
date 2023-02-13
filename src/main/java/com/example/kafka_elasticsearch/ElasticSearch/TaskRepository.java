@@ -1,4 +1,4 @@
-package com.example.kafka_elasticsearch;
+package com.example.kafka_elasticsearch.ElasticSearch;
 
 import org.springframework.data.elasticsearch.repository.ElasticsearchRepository;
 import org.springframework.stereotype.Repository;
